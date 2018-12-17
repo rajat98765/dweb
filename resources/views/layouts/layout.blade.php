@@ -83,7 +83,7 @@
         <li><a class="drop" href="#">For Men</a>
           <ul>
             <li><a href="/gallery">Process</a></li>
-            <li><a href="/gallery">Goals</a></li>
+            <li><a href="/gallery1">Goals</a></li>
             <li><a href="/full-width">Membership</a></li>
             <li><a href="/sidebar-left">Apply</a></li>
             <li><a href="/sidebar-right">Testimonials</a></li>
