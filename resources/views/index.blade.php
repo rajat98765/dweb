@@ -56,6 +56,8 @@ Headquartered in the cool and pleasant city of Bengaluru, Physis serves to offer
  
 Physis works closely with college educated professionals and we pride ourselves on meeting each and every member of the Physis network in person. Our vetting process is significant, and all Physis clients complete atleast one interview as well as “significant homework” as we get to know more about them, their goals, and what they hope to find in their next relationship. 
 </p>
+
+<!--
     <ul class="nospace group center">
       <li class="one_quarter first">
         <article><a href="#"><i class="icon btmspace-30 fa fa-500px"></i></a>
@@ -79,11 +81,87 @@ Physis works closely with college educated professionals and we pride ourselves 
       </li>
     </ul>
 
+-->
+
     <!-- / main body -->
     <div class="clear"></div>
+
+
+    <div class="sectiontitle">
+      <h3 class="heading">The Physis Difference</h3>
+<!--      <p>Non risus leo sed eget lobortis risus mauris blandit maximus.</p> -->
+    </div>
+
+<img src="images/demo/backgrounds/05.png" class="sectiontitle">
+    <p class="btmspace-50 justified">
+Our clients appreciate our discreet approach to matchmaking, and value the importance we place on their privacy. Physis is unusual in that our matchmaking is done client-to-client. We represent both men and women as clients, which is rare in an industry that tends to focus more on men. We find that successful, well educated men of Physis appreciate and value that women are equally committed to this process; and also financially invested; when both parties approach an introduction with equal gravity, they tend to have greater respect for each other, and are more open to the possibilities that can result.
+ 
+ 
+In addition we regularly organize social events for singles to meet in a comfortable and inviting setting. With our strong partnerships with some of the finest hospitality and lifestyle organizations, Physis seeks to bring exciting events to the table. From adrenaline pumping activities to experiential romantic dining, our range of attractive events make it fun for singles to get together and mingle. 
+
+</p>
+
+
+
+
+
+
+
   </main>
 </div>
 
+
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-lg-1"></div>
+
+      <div class="col-lg-10">
+
+    <div class="row">
+    <div class="col-lg-5 "><img src="images/demo/backgrounds/02.jpg" class="img-thumbnail imagesize"></div>
+    <div class="col-lg-7 ">
+    <br>
+    <br>
+    <h3 align="center" >For Men</h3><br>
+    The Students' Alumni Cell works towards ensuring mutual benefit of the Students as well as the Alumni. The Cell helps the alumni in staying connected to their alma mater. Through regular interactions with the students, the alumni get a chance to share their experiences and impart the knowledge they have acquired to the next generation of KGPians. Also, with this interchange, they get a glimpse of the young minds of the nation.
+  <br>
+     Ready to take the next step?   
+    <a href="">Learn More -> </a>
+    </div>
+</div>
+
+
+<br>
+<br>
+    <div class="row">
+    <div class="col-lg-7 ">
+    <br>
+    <br>
+    <h3 align="center" >For Women</h3><br>
+    The Students' Alumni Cell works towards ensuring mutual benefit of the Students as well as the Alumni. The Cell helps the alumni in staying connected to their alma mater. Through regular interactions with the students, the alumni get a chance to share their experiences and impart the knowledge they have acquired to the next generation of KGPians. Also, with this interchange, they get a glimpse of the young minds of the nation.
+      <br>
+     Ready to take the next step?   
+    <a href="">Learn More -> </a>
+    </div>    
+    <div class="col-lg-5 "><img src="images/demo/backgrounds/03.jpg" class="img-thumbnail imagesize"></div>
+
+</div>
+  
+</div>
+<div class="col-lg-1"></div>
+  </div>
+
+  <br>
+  <br>
+</div>
+
+
+
+
+
+
+
+<!--
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
   <article class="hoc container clear"> 
 
@@ -95,6 +173,10 @@ Physis works closely with college educated professionals and we pride ourselves 
 
   </article>
 </div>
+
+-->
+
+<!--
 
 <div class="wrapper bgded overlay light" style="background-image:url('images/demo/backgrounds/03.png');">
   <section class="hoc container clear"> 
@@ -152,6 +234,14 @@ Physis works closely with college educated professionals and we pride ourselves 
   </section>
 </div>
 
+
+-->
+
+
+
+
+
+<!--
 <div class="wrapper row3">
   <article class="hoc container clear"> 
 
@@ -170,7 +260,10 @@ Physis works closely with college educated professionals and we pride ourselves 
 
   </article>
 </div>
+-->
 
+
+<!--
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/04.png');">
   <article class="hoc container"> 
 
@@ -191,6 +284,11 @@ Physis works closely with college educated professionals and we pride ourselves 
 
   </article>
 </div>
+
+-->
+
+
+<!--
 
 <div class="wrapper row3">
   <section class="hoc container clear"> 
@@ -241,6 +339,10 @@ Physis works closely with college educated professionals and we pride ourselves 
   </section>
 </div>
 
+
+-->
+
+<!--
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/05.png');">
   <article class="hoc container center"> 
 
@@ -252,71 +354,10 @@ Physis works closely with college educated professionals and we pride ourselves 
 
   </article>
 </div>
-<div class="wrapper row4">
-  <footer id="footer" class="hoc clear"> 
 
-    <div class="one_third first">
-      <h6 class="heading">Risus lacus ut lectus</h6>
-      <ul class="nospace btmspace-30 linklist contact">
-        <li><i class="fa fa-map-marker"></i>
-          <address>
-          Street Name &amp; Number, Town, Postcode/Zip
-          </address>
-        </li>
-        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
-        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
-      </ul>
-      <ul class="faico clear">
-        <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-        <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a class="faicon-dribble" href="#"><i class="fa fa-dribbble"></i></a></li>
-        <li><a class="faicon-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-        <li><a class="faicon-google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-        <li><a class="faicon-vk" href="#"><i class="fa fa-vk"></i></a></li>
-      </ul>
-    </div>
-    <div class="one_third">
-      <h6 class="heading">Massa consequat tellus</h6>
-      <ul class="nospace linklist">
-        <li>
-          <article>
-            <h2 class="nospace font-x1"><a href="#">Non efficitur lacus elit</a></h2>
-            <time class="font-xs block btmspace-10" datetime="2045-04-06">Friday, 6<sup>th</sup> April 2045</time>
-            <p class="nospace">Metus mauris luctus lacinia posuere aenean nec cursus mi nunc ornare interdum [&hellip;]</p>
-          </article>
-        </li>
-        <li>
-          <article>
-            <h2 class="nospace font-x1"><a href="#">Ut ipsum vestibulum et fringilla</a></h2>
-            <time class="font-xs block btmspace-10" datetime="2045-04-05">Thursday, 5<sup>th</sup> April 2045</time>
-            <p class="nospace">Nunc vitae porttitor ipsum in hac habitasse platea dictumst in quis arcu ac [&hellip;]</p>
-          </article>
-        </li>
-      </ul>
-    </div>
-    <div class="one_third">
-      <h6 class="heading">Praesent porttitor pulvinar</h6>
-      <p class="nospace btmspace-30">Ligula euismod lacinia eget hendrerit nunc mauris ultrices mauris vel.</p>
-      <form method="post" action="#">
-        <fieldset>
-          <legend>Newsletter:</legend>
-          <input class="btmspace-15" type="text" value="" placeholder="Name">
-          <input class="btmspace-15" type="text" value="" placeholder="Email">
-          <button type="submit" value="submit">Submit</button>
-        </fieldset>
-      </form>
-    </div>
+-->
 
-  </footer>
-</div>
 
-<div class="wrapper row5">
-  <div id="copyright" class="hoc clear"> 
-
-    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
-  </div>
-</div>
 
 <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
 

@@ -24,6 +24,10 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/gallery', function () {
     return view('gallery');
 });
+Route::get('/gallery1', function () {
+    return view('gallery1');
+});
+
 
 Route::get('/full-width', function () {
     return view('full-width');
@@ -40,3 +44,11 @@ Route::get('/sidebar-right', function () {
 Route::get('/basic-grid', function () {
     return view('basic-grid');
 });
+
+Route::get('/personal-info','PersonalinfoController@create');
+
+
+
+Route::post('/personal-info','PersonalinfoController@store');
+
+Route::get('/profile','PersonalinfoController@index');

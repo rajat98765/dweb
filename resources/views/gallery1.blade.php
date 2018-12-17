@@ -70,9 +70,9 @@
         <h6 style="font-size: 200%;">For Men</h6>
         <address>
         <a href="/gallery" style="font-size: 120%;">Process </a> <br>
-        <a href="/gallery1" style="font-size: 120%;">Goals </a> <br>        
+        <a href="/gallery1" style="color: red; font-size: 120%;">Goals </a> <br>        
 
-        <a href="/full-width" style="color: red; font-size: 120%;">Membership</a><br>
+        <a href="/full-width" style=" font-size: 120%;">Membership</a><br>
         <a href="/sidebar-left" style=" font-size: 120%;">Apply</a><br>
         <a href="/sidebar-right" style="font-size: 120%;">Testimonials </a><br>
         <a href="/basic-grid" style=" font-size: 120%;">FAQ </a><br>
@@ -103,40 +103,37 @@
 
     <div class="content three_quarter"> 
 
-      <h1> Membership</h1>
+ 
+      <h1>Goals</h1>
 
-      <p>All Physis memberships are completely customized to fit the needs of our clients. Our contracts range for 6 months.
- 
- Contracts can be frozen as many times as the client would like, for up to a total of four (4) months.
- 
-We have two kinds of memberships: Referral client membership and Premium Membership. 
- 
-Our time, energy, and focus is always directed toward the premium client of Physis. Those individuals who become premium clients of Physis go through an extensive screening (typically an in-person meet & greet followed by another in-person interview) and complete homework involved to ensure that we have the exact metrics to best match him. Our premium clients seek to have the exact same success in their personal lives that they have had in their professional lives.
- 
-If you are not in a position to be able to afford to become a premium client, we offer the referral client membership under which you are eligible to be matched with our premium clients. 
+<p>People often assume that matchmaking is about arranging marriages; this really isn’t true.  For some people, marriage is definitely the next step in their dating lives, but for many of our clients this process is simply about learning how to move forward.  At Physis, matchmaking is about helping you break your dating inertia. Our goal is to simply help you move forward and get into the serious, lasting relationship you deserve.  If you’re single and don’t want to be, it’s likely that at least one of the following things applies to you:
 </p>
 
 
-      <h1>Referral Client Membership</h1>
-      <p>This membership option is only available to men age 35 and under. A referral client is in the network for 12 months with the possibility of being matched when appropriate, is invited to our Physis events, has the option of purchasing our concierge services a la carte, and will benefit from light on-going date advice from staff. Although this type of client will not complete the lengthier application for membership, we would still require an in-person interview and some homework ahead of our meeting. There are no guaranteed introductions with this level of membership, but we only offer it to people we consider highly matchable.  </p>
-
-
-      <h1>Premium Relationship Membership</h1>
-      <p>This package includes a guaranteed four (4) introductions over six months.  After the guaranteed introductions have been made, introductions occur on a more opportunistic basis, but may continue for the duration of the contract if the client so wishes.  </p>
-
-<h1>Concierge Services</h1>
-<p>Our concierge services include a wide variety of services based on the individual needs of our clients. They include:</p>
-
 <ul style="list-style-type:disc">
-<li>Wardrobe stylings/ makeovers</li>
-<li>Customised Date Coaching</li>
-<li>Restaurant/ Travel arrangements</li>
-<li>Gift shopping</li>
-<li>Proposal planning</li>
-<li>And more…</li>
+  <li>you’ve never been serious about being in a relationship before
+</li>
+  <li>you’ve consistently dated the wrong type of person… and you know it
+</li>
+  <li>your life lacks the balance required to feed a romance…you work too much</li>
+  <li>you attract the wrong types into your life due to your success</li>
+<li>you seem to be the ‘friend’ and never the one viewed as marriage potential</li>
+<li>you’ve never developed the skills necessary to woo the opposite sex
+</li>
+<li>you don’t know how to date after a divorce/long term relationship
+</li>
+<li>you are reluctant to trust someone again after an infidelity/betrayal
+</li>
+
+
+
 
 
 </ul>  
+<p>One of the great advantages of working with a matchmaker is that we have the ability to help avoid the triggers and land mines of your past relationships when providing you with new introductions.  We can best position you for success by pairing you with others who understand – or even share – your particular dating difficulties.  Need someone who isn’t threatened by your outgoing nature?  Want someone else who has been married before and “gets it?”   
+ 
+Or maybe you’re also looking for someone else who’d like to do everything with someone for the first time? Maybe you need a bit more reassurance than most people?  Maybe you’d  benefit from being with someone who doesn’t mind that you don’t know how to flirt? We can actually help with all of that.  In fact, it’s part of our job.
+</p>
 
 
 
