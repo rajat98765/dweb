@@ -17,11 +17,11 @@
 
 
 
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/04.png');">
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.jpg');">
   <div id="breadcrumb" class="hoc clear"> 
 
     <ul>
-      <li><a href="#">Men</a></li>
+      <li><a href="#">Women</a></li>
       <li><a href="#">Apply</a></li>
 
     </ul>
@@ -67,15 +67,15 @@
 
 
       <div class="sdb_holder">
-        <h6 style="font-size: 200%;">For Men</h6>
+        <h6 style="font-size: 200%;">For Women</h6>
         <address>
-        <a href="/gallery" style="color: red;font-size: 120%;">Process </a> <br>
-        <a href="/gallery1" style="font-size: 120%;">Goals </a> <br>        
+        <a href="/w-process" style="color: red;font-size: 120%;">Process </a> <br>
+        <a href="/w-goals" style="font-size: 120%;">Goals </a> <br>        
 
-        <a href="/full-width" style=" font-size: 120%;">Membership</a><br>
-        <a href="/sidebar-left" style=" font-size: 120%;">Apply</a><br>
-        <a href="/sidebar-right" style="font-size: 120%;">Testimonials </a><br>
-        <a href="/basic-grid" style=" font-size: 120%;">FAQ </a><br>
+        <a href="/w-membership" style=" font-size: 120%;">Membership</a><br>
+        <a href="/w-apply" style=" font-size: 120%;">Apply</a><br>
+        <a href="/w-test" style="font-size: 120%;">Testimonials </a><br>
+        <a href="/w-faq" style=" font-size: 120%;">FAQ </a><br>
 
         </address>
       </div>
@@ -108,7 +108,7 @@
       <img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">
 -->
       <p>
-The first step in our process involves <a href="/sidebar-left"> providing us with your basic biographical information </a>. 
+The first step in our process involves <a href="/w-apply"> providing us with your basic biographical information </a>. 
  Once we have had a chance to review it, we will reach out with a tailored set of additional questions that will help us get to know you better, and help us understand if Physis might be the right fit for you.   At that point, we may then invite you to meet with us for an initial one-on-one meet and greet where you can get to know the Physis team in person, and we can really get a sense of what you want in your next serious relationship. 
 
 We like to be upfront about the fact that there is a nominal fee for this initial meeting.   This meeting can often take up to 90 minutes, and during that period you’ll have the undivided attention of our team, so the fee is strictly to cover our professional time.  We would love to be able to offer complimentary screenings but, as a boutique firm, our time is limited, and we find that charging a nominal early fee helps us screen out those who aren’t truly serious about this process.  Financially, it also allows us to carve out the time to focus solely on our conversation, and our prospective clients tend to appreciate that extra attention.

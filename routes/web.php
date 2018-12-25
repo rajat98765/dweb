@@ -52,3 +52,30 @@ Route::get('/personal-info','PersonalinfoController@create');
 Route::post('/personal-info','PersonalinfoController@store');
 
 Route::get('/profile','PersonalinfoController@index');
+
+
+
+
+Route::get('/w-process', function () {
+    return view('w-process');
+});
+Route::get('/w-goals', function () {
+    return view('w-goals');
+});
+
+
+Route::get('/w-membership', function () {
+    return view('w-membership');
+});
+
+Route::get('/w-apply', function () {
+    return view('w-apply');
+});
+
+Route::get('/w-test', function () {
+    return view('w-test');
+});
+
+Route::get('/w-faq', function () {
+    return view('w-faq');
+});
