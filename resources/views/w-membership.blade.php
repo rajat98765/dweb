@@ -69,10 +69,10 @@
       <div class="sdb_holder">
         <h6 style="font-size: 200%;">For Women</h6>
         <address>
-        <a href="/w-process" style="color: red;font-size: 120%;">Process </a> <br>
+        <a href="/w-process" style="font-size: 120%;">Process </a> <br>
         <a href="/w-goals" style="font-size: 120%;">Goals </a> <br>        
 
-        <a href="/w-membership" style=" font-size: 120%;">Membership</a><br>
+        <a href="/w-membership" style="color: red; font-size: 120%;">Membership</a><br>
         <a href="/w-apply" style=" font-size: 120%;">Apply</a><br>
         <a href="/w-test" style="font-size: 120%;">Testimonials </a><br>
         <a href="/w-faq" style=" font-size: 120%;">FAQ </a><br>
